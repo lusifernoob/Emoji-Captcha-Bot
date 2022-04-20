@@ -33,7 +33,7 @@
         },
         "GROUP_CHAT_ID": {
             "description": "Your Telegram Group ID where the bot will ask for verify by Captcha."
-        },    
+       
     },
     "buildpacks": [
         {
